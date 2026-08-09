@@ -1,0 +1,23 @@
+{
+  "version": "20260809002352",
+  "generated_at": "2026-08-09T00:23:52+00:00",
+  "data_file": "data.csv",
+  "total": 55429,
+  "source_counts": {
+    "fsc": 4544,
+    "nhi": 30153,
+    "gov": 7942,
+    "moe": 3984,
+    "hotel": 15504,
+    "blacklist": 0
+  },
+  "dropped_counts": {
+    "fsc": 620,
+    "nhi": 40,
+    "gov": 250,
+    "moe": 13,
+    "hotel": 157,
+    "blacklist": 0
+  },
+  "sha256": "09a13e92b80e7cb128def3407b98fe546ac60541763de7e15f7c6587e2906157"
+}
