@@ -1,11 +1,11 @@
 {
-  "version": "20260814221633",
-  "generated_at": "2026-08-14T22:16:33+00:00",
+  "version": "20260821221716",
+  "generated_at": "2026-08-21T22:17:16+00:00",
   "data_file": "data.csv",
-  "total": 119700,
+  "total": 119703,
   "source_counts": {
     "fsc": 4515,
-    "nhi": 30160,
+    "nhi": 30158,
     "fda": 8239,
     "ltc": 23124,
     "gov": 7940,
@@ -13,8 +13,8 @@
     "post": 2403,
     "vet": 1895,
     "hotel": 15514,
-    "attraction": 6080,
-    "restaurant": 3683,
+    "attraction": 6078,
+    "restaurant": 3682,
     "travel": 4134,
     "cpc": 1964,
     "temple": 12270,
@@ -26,12 +26,12 @@
     "funeral": 4683,
     "insurance_agent": 294,
     "broker": 800,
-    "twse": 2144,
+    "twse": 2146,
     "trademark": 1918,
     "employment_agency": 5136,
     "employment_center": 9267,
     "publisher": 644,
-    "food_business": 7564,
+    "food_business": 7566,
     "sport": 14968,
     "taipower": 285,
     "blacklist": 0
@@ -69,5 +69,5 @@
     "taipower": 4,
     "blacklist": 0
   },
-  "sha256": "5d88f44652bf3ea8d63b3fd49e4ea115e92c6d9e1c25c17c56ff9dc28e9429ef"
+  "sha256": "081d0ff4560251b9fc78d8d24d1f8f5d2d81fe38711b4f60e793d5e19b48f2a7"
 }
